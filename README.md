@@ -1,6 +1,9 @@
 # squid_game
 
-A new Flutter project.
+Squid Game UI in Flutter
+
+You can customise this according to your needs 
+and you Device size.
 
 ## Getting Started
 

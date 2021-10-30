@@ -3,7 +3,7 @@
 Squid Game UI in Flutter
 
 You can customise this according to your needs 
-and you Device size.
+and your Device size.
 
 ## Getting Started
 
